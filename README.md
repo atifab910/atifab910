@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atifab910
-- 👀 I’m interested in web development & cybersecurity
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on Html Css and javascript.
+- 👀 I’m interested in Web Development, Data Science & Cybersecurity
+- 🌱 I’m currently learning Data Science. 
+- 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 How to reach me by clicking on the Fiverr profile.
 
 <!---
